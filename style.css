@@ -148,6 +148,9 @@ button:active{
     .col-sm-6{
         padding: 0 0;
     }
+    .special .row .col-sm-4 .btn{
+        margin-left:0;
+    }
 }
 @media screen and (max-width:1115px) and (min-width:700px){
     .nav-link{
