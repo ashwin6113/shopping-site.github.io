@@ -151,6 +151,15 @@ button:active{
     .col-sm-6{
         padding: 0 0;
     }
+    .col-sm-6 h1{
+        font-size: 30px;
+    }
+    .col-sm-6 h2{
+        font-size: 30px;
+    }
+    .col-sm-6 h6{
+        font-size: 15px;
+    }
 }
 @media screen and (max-width:1115px) and (min-width:700px){
     .nav-link{
