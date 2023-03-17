@@ -10,14 +10,13 @@ body{
     color: #f1f1f1;
     overflow: hidden;
 }
+.navbar{
+    border-radius: 50px;
+}
 
 .navbar-brand {
     display: flex;
     flex-direction: row;
-}
-
-.navbar-brand img {
-    border-radius: 50px;
 }
 
 .nav-item {
